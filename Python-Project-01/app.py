@@ -1,4 +1,2 @@
-print("   /|")
-print("  / |")
-print(" /  |")
-print("/___|")
+name = input("Enter your name: ")
+print("Hello " + name + "!")
